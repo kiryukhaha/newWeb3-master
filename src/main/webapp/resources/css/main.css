@@ -1,0 +1,117 @@
+
+#left{
+    width: 50%;
+    float: left;
+}
+
+#right{
+    width: 50%;
+    float: right;
+}
+#resultTable{
+    width: 100%;
+}
+
+
+#resultTable tr{
+    background-color: firebrick;
+    color: azure;
+    margin-left: 70%;
+}
+
+#resultTable tr th {
+    margin: auto;
+    font-size: 150%;
+    height: 5vh;
+    width: 3vh;
+    border: 2px solid deepskyblue;
+
+}
+
+#resultTable tr td{
+    text-align: center;
+    background-color: darkgrey;
+    height: 3.5vh;
+    width: 3vh;
+    font-size: 120%;
+    border: 2px solid deepskyblue;
+}
+
+#linkBack{
+    margin-top: 2vh;
+    text-align: center;
+    font-size: 20pt;
+
+}
+
+/*#submit{*/
+/*    margin-left: 2%;*/
+/*    width: 30%;*/
+/*    height: 7vh;*/
+/*    font-size: 150%;*/
+/*    background-color: firebrick;*/
+/*    border: 2px solid deepskyblue;*/
+/*    color: azure;*/
+/*    cursor: pointer;*/
+/*    border-radius: 5px;*/
+/*}*/
+
+
+.submit{
+    width: 50%;
+    height: 5vh;
+    font-size: 150%;
+    background-color: firebrick;
+    border: 2px solid deepskyblue;
+    color: azure;
+    cursor: pointer;
+    border-radius: 5px;
+}
+/*#clear{*/
+/*    width: 45%;*/
+/*    height: 7vh;*/
+/*    font-size: 150%;*/
+/*    background-color: firebrick;*/
+/*    border: 2px solid deepskyblue;*/
+/*    color: azure;*/
+/*    cursor: pointer;*/
+/*    border-radius: 5px;*/
+/*}*/
+
+#date{
+    margin-top: 3vh;
+}
+
+.r-button {
+    color: black;
+    font-size: large;
+    width: 8%;
+    background-color: white;
+    margin-bottom: 2%;
+
+}
+
+.x-button{
+
+    height: 3vh;
+    border: 2px solid deepskyblue ;
+    font-size: large;
+}
+
+.y-text{
+
+    width: 40%;
+    height: 2.5vh;
+    border: 2px solid deepskyblue ;
+    font-size: large;
+}
+
+.text {
+    display:block;
+    margin-bottom:2%;
+    margin-top: 2%;
+    font-size: 150%;
+
+    color: firebrick;
+
+}

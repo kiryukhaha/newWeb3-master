@@ -1,0 +1,41 @@
+#title{
+    font-family:'Raleway' , sans-serif;
+    color: azure;
+
+    font-size: 6vh;
+    margin-left: 35vh;
+
+
+
+}
+
+#cap {
+    height: 20vh;
+    background-color: firebrick;
+    border: 7px double deepskyblue;
+}
+
+
+#clock{
+    color: chocolate;
+    margin-top: 5vh;
+    text-align: center;
+    font-size: 22pt;
+}
+
+
+
+#link{
+    margin-top: 2vh;
+    text-align: center;
+    font-size: 16pt;
+}
+
+
+#linkForward{
+    margin-top: 2vh;
+    text-align: center;
+    font-size: 20pt;
+    margin-outside: 3vh;
+
+}
